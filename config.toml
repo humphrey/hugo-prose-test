@@ -1,0 +1,4 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "My New Hugo-Prose Static Generated Site"
+theme = "hugo_theme_robust"
