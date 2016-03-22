@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo-Prose Static Generated Site </title>
+    <link>https://humphrey.github.com/hugo-prose-test/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2016</rights>
+    <updated>2016-03-22 19:30:14 &#43;1100 &#43;1100</updated>
+
+    
+      
+        <item>
+          <title>okay to great</title>
+          <link>https://humphrey.github.com/hugo-prose-test/post/2016-03-22-your-filename/</link>
+          <pubDate>Tue, 22 Mar 2016 19:30:14 &#43;1100</pubDate>
+          <author></author>
+          <guid>https://humphrey.github.com/hugo-prose-test/post/2016-03-22-your-filename/</guid>
+          <description>
+
+&lt;h2 id=&#34;this-is-a-cool-new-post:9af2890351ac56c734d9d5362a879f73&#34;&gt;This is a cool new post ;-)&lt;/h2&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+
+&lt;p&gt;Enter text in &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>great to fantastic</title>
+          <link>https://humphrey.github.com/hugo-prose-test/post/great-to-fantastic/</link>
+          <pubDate>Tue, 22 Mar 2016 19:23:14 &#43;1100</pubDate>
+          <author></author>
+          <guid>https://humphrey.github.com/hugo-prose-test/post/great-to-fantastic/</guid>
+          <description>&lt;p&gt;Hello world&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>good to great</title>
+          <link>https://humphrey.github.com/hugo-prose-test/post/good-to-great/</link>
+          <pubDate>Tue, 22 Mar 2016 19:01:44 &#43;1100</pubDate>
+          <author></author>
+          <guid>https://humphrey.github.com/hugo-prose-test/post/good-to-great/</guid>
+          <description>&lt;p&gt;So, this is a post about being good to great.  I think it&amp;rsquo;s a book &lt;em&gt;title&lt;/em&gt;, but I&amp;rsquo;m not sure, since I am a thing&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
