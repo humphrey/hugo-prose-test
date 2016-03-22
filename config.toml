@@ -1,4 +1,4 @@
-baseurl = "https://humphrey.githut.com/hugo-prose-test/"
+baseurl = "https://humphrey.github.com/hugo-prose-test/"
 languageCode = "en-au"
 title = "My New Hugo-Prose Static Generated Site"
 theme = "hugo_theme_robust"
