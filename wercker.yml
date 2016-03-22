@@ -47,6 +47,6 @@ deploy:
         packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: humphrey.github.io
+        #domain: humphrey.github.io
         basedir: public
-        repo: humphrey/hugo-prose-test-public
+        repo: humphrey/hugo-prose-test
