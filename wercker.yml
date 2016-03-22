@@ -30,5 +30,6 @@ build:
         flags: --buildDrafts=true
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: hugo-prose-test-public
+        #domain: hugo-prose-test-public
         basedir: public
+        repo: humphrey/hugo-prose-test-public
