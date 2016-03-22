@@ -5,4 +5,4 @@ title = "good to great"
 
 +++
 
-hello
+So, this is a post about being good to great.  I think it's a book *title*, but I'm not sure, since I am a thing
